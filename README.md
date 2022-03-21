@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi
 
-<!--
-**topcoder-peterpan/topcoder-peterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior full-stack web developer with more than 8 years of rich experiend.
+Here are my skill sets:
 
-Here are some ideas to get you started:
+-blockchain development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-Javascript Frameworks
+ React, Angular, Vue.js
+ Ember.js, Meteor, Mithril
+ Node.js, Polymer, Aurelia
+ Backbone.js, jQuery
+
+-PHP Frameworks
+ Laravel, CodeIgniter, Slim
+ Symfony, Phalcon, FuelPHP
+ PHPixie, CakePHP, Yii
+
+-CSS Frameworks
+ Bootstrap, Tailwind CSS, Foundation
+ Bulma, Skeleton, Semantic UI
+
+-Database
+ MongoDB, MySQL, PostgreSql
+
+-Versioning Tools
+GitHub, GitLab, BitBucket
+
+-Deployment Tools
+ Heroku, Vercel, Amazon
+
+Please contact me.
+Telegram: giant959
+Skype: live:.cid.264844f1cd2b7c92
