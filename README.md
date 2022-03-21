@@ -2,18 +2,13 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">I'm a senior full-stack web and bolckchain developer with more than 8 years of rich experiend..</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a senior full-stack web and bolckchain developer with more than 8 years of rich experience..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
+- 🔭 I’m currently working on web and blockchain development
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
-
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
-
-
-- 📫 How to reach me **devboyarif@gmail.com**
+- 📫 How to reach me **peterpan.webdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
