@@ -135,14 +135,3 @@
     </td>
   </tr>
 </table>
-
----
-<details>
-  <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
-</details>
-
-----
-Credits: [devboyarif](https://github.com/devboyarif)
-
-Last Edited on: 3/09/2021
